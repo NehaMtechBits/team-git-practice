@@ -1,1 +1,3 @@
-hello this is first conflict
+
+I'm learning to solve resolve 
+
