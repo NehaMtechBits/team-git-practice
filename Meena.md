@@ -1,7 +1,10 @@
 Hello, this is git training by Neha Pandya.
 
-My favorite hobby is Sleeping / dancing and playing
 
 
 
+
+
+
+My favorite hobby is Sleeping/eating.
 
