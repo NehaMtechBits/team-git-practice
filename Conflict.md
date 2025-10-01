@@ -1,1 +1,3 @@
-hello this is first conflict
+Hello 1st stage 
+Hello 2st stage 
+Hello 3rd stage 
