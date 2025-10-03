@@ -1,3 +1,4 @@
-
-I'm learning to solve resolve 
-
+Hello 1st stage 
+Hello 2st stage 
+Hello 3rd stage 
+bug
